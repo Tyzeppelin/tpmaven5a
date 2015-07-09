@@ -37,4 +37,8 @@
 		</plugins>
 </reporting>
 
+<scm>
+	<connection>scm:git:file:/udd/fboschet/insa/tpmaven/tpmaven</connection>
+</scm>
+
 </project>
